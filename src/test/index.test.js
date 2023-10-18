@@ -9,3 +9,4 @@ describe("video streaming microservice", () => {
         expect(response.status).toBe(200); // Verify that a HTTP status code 200 is returned, indicating success.
     });
 });
+
